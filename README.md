@@ -8,7 +8,7 @@ TIL:
 * Reinforced the pipeline steps of:
 > 1) Identify a problem
 > 2) Collect data
-> Note: You need training data and test data
+> * Note: You need training data and test data
 > 3) Process data
 * Naive Bayes is a good starting place for a classification problem
 * Comparing train data and test data, you want to have a similar distribution
