@@ -1,5 +1,19 @@
 # machine-learning-2021
 
+01/03/21
+Read: https://atharvaaingle.medium.com/10-tips-to-learn-machine-learning-72b7dcf15528
+TIL:
+* Both Python and R are important
+* Tutorials allow you to recreate, but you need to apply to your own data / projects to get real learning application benefits
+* Lab / hacking results aren't enough, you need to deploy in real-world situations to understand how your model is performing
+* How to make algorithmns in excel: https://www.quora.com/How-do-I-create-an-algorithm-with-a-spreadsheet
+> * Once an Excel formula has more than about three levels of nested parentheses, it usually gets pretty messy. Whenever you have a moderately complex algorithm, try to break it into logical steps. Perhaps you could put raw data in Columns A and B. Do a calculation in Column C. Put the results of an “if” statement in Column D. If “D” is true, perform another calculation in Column E. Otherwise, perform an alternative calculation in Column F.
+> *Column D will either be True or else False. If you see a value that is true when you know it should be false, there is an immediate source of feedback for you to trace the source of inaccuracies and inconsistencies.
+* Due to the abstract nature of data science, feedback or checking your answers is super important.
+> How to create a dependent dropdown in excel: https://productivityspot.com/dependent-drop-list-google-sheets/
+* First attempt at an estimating model: https://docs.google.com/spreadsheets/d/1lZz_DFdhKHz3KqRUN2olbjs0t4-Z33xVpVika5UuH48/edit?usp=sharing
+
+
 01/02/21
 Read: https://jaswanth-badvelu.medium.com/the-quickest-way-to-build-dashboards-for-machine-learning-models-ec769825070d
 TIL: 
