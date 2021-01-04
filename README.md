@@ -1,5 +1,15 @@
 # machine-learning-2021
 
+01/04/21
+Working from https://www.amazon.com/Artificial-Intelligence-Python-Cookbook-algorithms/dp/1789133963
+pp. 9-16
+TIL:
+* Google Colab is Jupyter Notebooks in the cloud
+> Install Jupyter Notebooks: https://jupyter.org/install and the docs: https://jupyterlab.readthedocs.io/en/stable/
+> * This is good for doing work on your computer. Google Colab has a 12-hour timeout.
+> Access Google Colab https://colab.research.google.com/
+
+
 01/03/21
 Read: https://atharvaaingle.medium.com/10-tips-to-learn-machine-learning-72b7dcf15528
 TIL:
