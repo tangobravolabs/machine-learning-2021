@@ -1,8 +1,8 @@
 # machine-learning-2021
 
 01/05/21
-Read:
-TIL:https://medium.com/swlh/applications-of-machine-learning-9f77e6eb7acc
+Read: https://medium.com/swlh/applications-of-machine-learning-9f77e6eb7acc
+TIL:
 * The intelligent systems built on machine learning algorithms have the capability to learn from past experience or historical data.
 * Machine learning is very useful in any application that’s based on pattern recognition
 * Pattern Heirarchy
