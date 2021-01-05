@@ -1,5 +1,35 @@
 # machine-learning-2021
 
+01/05/21
+Read:
+TIL:https://medium.com/swlh/applications-of-machine-learning-9f77e6eb7acc
+* The intelligent systems built on machine learning algorithms have the capability to learn from past experience or historical data.
+* Machine learning is very useful in any application that’s based on pattern recognition
+* Pattern Heirarchy
+> * Problem domain (ex. Speech Recognition)
+> * Application (ex. inquiry with automated operator)
+> * Input Pattern (Spoken waveform)
+> * Pattern Class (Spoken words)
+* Pipeline = IRL activity / object > digital representation > signal processing > pattern definition (training) /recognition (production)
+* Sources:
+> * Sensory detection: visual, audio, temperture, light, humidity, lidar, infrared, vibration, motion, etc.
+> * Data files/sources: images, structured data, unstrucutred data, social media, dark data (logs, events, ets)
+* Dark Data: https://www.kdnuggets.com/2015/11/importance-dark-data-big-data-world.html
+* Dark data is a subset of big data but it constitutes the biggest portion of the total volume of big data collected by organizations in a year.
+* A large portion of the collected data are never even analysed.
+* It is surprising because at the time of data collection, the companies assume that the data is going to provide value. 
+* Why is it dark?
+> * Disconnect among departments
+> * Technology and tool constraints
+* Problems dark data can cause
+> * Legal and regulatory issues
+> * Intelligence risk
+> * Loss of reputation
+> * Opportunity costs
+
+
+
+
 01/04/21
 Working from https://www.amazon.com/Artificial-Intelligence-Python-Cookbook-algorithms/dp/1789133963
 pp. 9-16
