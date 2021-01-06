@@ -16,6 +16,10 @@ TIL:
 > * jax for array processing with autograd
 > * cython for comiling Cython extentions in the notebook
 > * seaborn for data visualization 
+Read: https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c
+Read: https://medium.com/towards-artificial-intelligence/google-colab-101-tutorial-with-python-tips-tricks-and-faq-7689bd4d24b4
+* Found Kaggle https://www.kaggle.com/
+> Access free GPUs and a huge repository of community published data & code.
 
 01/05/21
 Read: https://medium.com/swlh/applications-of-machine-learning-9f77e6eb7acc
