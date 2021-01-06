@@ -1,5 +1,22 @@
 # machine-learning-2021
 
+01/06/20
+Watched: https://www.youtube.com/watch?v=inN8seMm7UI
+TIL:
+* Google Colab is like Jupyter notebooks hosted in Google Drive https://colab.research.google.com/
+* You can write Python code in cells in Google Colab
+* * It also has a built in code snippet library
+* The files can be shared with others standard Jupyter files
+* You an import Jupyter files from others
+* pip installed:
+> * tqdm for progress bars
+> * swifter for quicker pandas processing
+> * ray and joblib for multiprocessing
+> * numba for JIT compilation
+> * jax for array processing with autograd
+> * cython for comiling Cython extentions in the notebook
+> * seaborn for data visualization 
+
 01/05/21
 Read: https://medium.com/swlh/applications-of-machine-learning-9f77e6eb7acc
 TIL:
