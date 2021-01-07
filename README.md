@@ -1,6 +1,17 @@
 # machine-learning-2021
 
-01/06/20
+01/07/21 
+Read: https://towardsdatascience.com/the-not-so-naive-bayes-b795eaa0f69b
+* Naive Bayes just uses Bayes underlying theorom as a construct for evaluation
+* Always the first step is gathering data!
+* This spam filter used most frequently used words to create distinct models of what non-spam and spam messages ar
+* Transforming or pre-processing the data by removing "stop words" like a, the, and... etc.
+* Training the model requires train and test data (general rule of thumb) is 80% train, 20% test
+* Models must evolve - rarely is the first iteration of training enough (and should always be verified, if you think it is.)
+* As you learn more about the data, you can evole your ways of processing the data and approaches to modelling to drive better results
+* Bayes is a great place to start to test hypotheses and start to mdoel the data so you can move to your next step
+
+01/06/21
 Watched: https://www.youtube.com/watch?v=inN8seMm7UI
 TIL:
 * Google Colab is like Jupyter notebooks hosted in Google Drive https://colab.research.google.com/
@@ -47,8 +58,6 @@ TIL:
 > * Intelligence risk
 > * Loss of reputation
 > * Opportunity costs
-
-
 
 
 01/04/21
