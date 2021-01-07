@@ -10,6 +10,9 @@ Read: https://towardsdatascience.com/the-not-so-naive-bayes-b795eaa0f69b
 * Models must evolve - rarely is the first iteration of training enough (and should always be verified, if you think it is.)
 * As you learn more about the data, you can evole your ways of processing the data and approaches to modelling to drive better results
 * Bayes is a great place to start to test hypotheses and start to mdoel the data so you can move to your next step
+Read: https://stats.stackexchange.com/questions/246101/when-to-use-bernoulli-naive-bayes/246106
+* Bernoulli Naive Bayes is for binary features only. Similarly, multinomial naive Bayes treats features as event probabilities.
+
 
 01/06/21
 Watched: https://www.youtube.com/watch?v=inN8seMm7UI
