@@ -8,7 +8,13 @@ TIL:
 * How to calculate runtime
 * How to show a progress bar for runtime
 * How to compile code
-
+* Simple Data Solution Workflow
+> + Load the dataset
+> + Visualize the data
+> + Preprocess and transform the data
+> + Choose a model to use
+> + Check the performance
+> + Interpret and undertand the model
 
 
 01/07/21 
