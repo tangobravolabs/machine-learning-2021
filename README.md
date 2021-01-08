@@ -1,5 +1,16 @@
 # machine-learning-2021
 
+01/08/21
+pp: 20-30 (Cookbook)
+TIL:
+* How to load packages
+* How to execute an extension
+* How to calculate runtime
+* How to show a progress bar for runtime
+* How to compile code
+
+
+
 01/07/21 
 Read: https://towardsdatascience.com/the-not-so-naive-bayes-b795eaa0f69b
 * Naive Bayes just uses Bayes underlying theorom as a construct for evaluation
