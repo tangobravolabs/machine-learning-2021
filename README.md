@@ -1,5 +1,16 @@
 # machine-learning-2021
 
+01.09.21
+pp: 30-39
+TIL:
+* How to visualize the data using seaborn
+* How to create a model from a data set in scikit
+* How to split data in to training and validation data sets in scikit
+* How to check the performance of model in scikit
+* How to print out a confusion matrix
+* What a clear confusion matrix should look like
+* How to create a model in Keras
+
 01/08/21
 pp: 20-30 (Cookbook)
 TIL:
