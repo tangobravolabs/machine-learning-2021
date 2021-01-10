@@ -1,5 +1,14 @@
 # machine-learning-2021
 
+01.10.21
+TIL: https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=-Rh3-Vt9Nev9
+* How to connect colab to my google drive
+* Create a txt file in python and store in my drive
+* Open and read a txt file in my notebook
+* Create a google sheet in python
+* Add content in python to my google sheet
+* view the data in my notebook via pandas
+
 01.09.21
 pp: 30-39
 TIL:
