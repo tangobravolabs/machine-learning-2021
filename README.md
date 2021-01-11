@@ -1,5 +1,10 @@
 # machine-learning-2021
 
+01.11.21
+TIL:https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.plot.line.html
+
+
+
 01.10.21
 TIL: https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=-Rh3-Vt9Nev9
 * How to connect colab to my google drive
