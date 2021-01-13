@@ -1,5 +1,15 @@
 # machine-learning-2021
 
+01.12.21
+pp. 132-133
+TIL:
+* get a dataset from a URL and load into Pandas
+* read from a delimited CSV file
+* Load dython to visuaize the data
+* Build a 16x16 association matrix
+
+
+
 01.11.21
 TIL:https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.plot.line.html
 
