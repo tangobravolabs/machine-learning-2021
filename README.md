@@ -1,5 +1,13 @@
 # machine-learning-2021
 
+01.13.21
+pp.134-137
+TIL:
+* How to run clustering
+* How to visualize clustering
+* How to select the optimal # of clusters from the chart
+* Run a summary table of clusters
+
 01.12.21
 pp. 132-133
 TIL:
