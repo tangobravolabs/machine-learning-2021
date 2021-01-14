@@ -4,8 +4,8 @@
 Read: https://medium.com/cracking-the-data-science-interview/how-to-think-like-a-data-scientist-in-12-steps-157ea8ad5da8
 * Summary of the book: https://www.manning.com/books/think-like-a-data-scientist
 * The 1st phase is preparation — time and effort spent gathering information at the beginning of a project can spare big headaches later
-* > Setting goals
-* > Exploring data
+* > Setting goals : Every project has a customer. 
+* > Exploring data : https://miro.medium.com/max/347/1*3i9lB6RPCuplb8yyaJODwQ.jpeg
 * > Wrangle the data
 * > Assessing the data
 * The 2nd phase is building the product, from planning through execution, using what you learned during the preparation phase and all the tools that statistics and software can provide.
