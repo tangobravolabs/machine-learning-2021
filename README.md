@@ -1,5 +1,25 @@
 # machine-learning-2021
 
+01.14.20
+Read: https://medium.com/cracking-the-data-science-interview/how-to-think-like-a-data-scientist-in-12-steps-157ea8ad5da8
+* Summary of the book: https://www.manning.com/books/think-like-a-data-scientist
+* The 1st phase is preparation — time and effort spent gathering information at the beginning of a project can spare big headaches later
+* > Setting goals
+* > Exploring data
+* > Wrangle the data
+* > Assessing the data
+* The 2nd phase is building the product, from planning through execution, using what you learned during the preparation phase and all the tools that statistics and software can provide.
+* > Plan
+* > Engineer
+* > Optimize
+* > Execute
+* The 3rd and final phase is finishing — delivering the product, getting feedback, making revisions, supporting the product, and wrapping up the project.
+* > Deliver
+* > Revise
+* > Wrap-up
+* Nice visual of all the phases: https://miro.medium.com/max/500/1*r2s0u-zlUyxYjIYPR62xrA.jpeg
+
+
 01.13.21
 pp.134-137
 TIL:
