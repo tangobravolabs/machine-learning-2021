@@ -1,6 +1,22 @@
 # machine-learning-2021
+For tom.. https://www.kaggle.com/dansbecker/building-models-from-convolutions
 
-01.14.20
+01.15.21
+TIL: https://www.kaggle.com/dansbecker/intro-to-dl-for-computer-vision
+* Tensorflow is the leading tool for deep learning
+* Keras is a API-baed way to get data into and out of models
+* Tensorflow is so popular that Keras built a library inside of Tensorflow
+* Tensor is the word for something like a matrix but can have any number of dimensions
+* A convulusion is a small tensor that can be multiplied over the main image [data set] (like a filter) to find patterns
+* If you multiply the convulusion over a section of the image that aligns with the pattern, you get a large value
+* If you multiply the convulusion over a section of the image that does not align well with the pattern, you get a smaller value
+Also: https://www.kaggle.com/tangobravo2/exercise-intro-to-dl-for-computer-vision/edit
+* The deep learning technique determines what convolutions will be useful from the data (as part of model-training)
+* The convolutions you've seen are 2x2. But you could have larger convolutions. They could be 3x3, 4x4, etc. They don't even have to be square. Nothing prevents using a 4x7 convolution.
+* 
+
+
+01.14.21
 Read: https://medium.com/cracking-the-data-science-interview/how-to-think-like-a-data-scientist-in-12-steps-157ea8ad5da8
 * Summary of the book: https://www.manning.com/books/think-like-a-data-scientist
 * The 1st phase is preparation — time and effort spent gathering information at the beginning of a project can spare big headaches later
