@@ -1,5 +1,29 @@
 # machine-learning-2021
-For tom.. https://www.kaggle.com/dansbecker/building-models-from-convolutions
+
+01.16.21
+TIL: https://www.kaggle.com/dansbecker/building-models-from-convolutions
+* When the tensors are applied to the image, each filtered setion has an output - those output sections are compiled in a new output tensor
+* There can be multiple filters applied which results in a layers (or channels) of output tensors
+* You can move left-to-right, top-to-bottom through a channel or vertifcally through through the layers (the channel dimension)
+* As you get more layers, you can get more complex patterns - concentric circles might be a tire, concentric circles togther might be a car
+* You can get predictions from these recognized patterns
+* Many breakthroughs in Computer Vision have come through a competition called, "Imagenet"
+* Many of these models can accuratley detect the subject about 80% of the time - first time. This is better than humans.
+* You often start with one of these pre-trained models to detect object because they have so many layer / patterns already built in.
+* CV learning process - start wtih a pre-trained model
+* Get it working for yourself
+* Use transfer learning to build on that model to meet your needs for a new, custom detection model
+Also: https://www.kaggle.com/dansbecker/tensorflow-programming
+* > + Gather your images and put them in a directory
+* > + Access the images via your notebook
+* > + Preprocess the images (i.e sizing is important here - only use the size image you need)
+* > + Convert each image into an array using an image-to-array function (this turns the image into an array.) Adding additional images create a 4th dimention (the tensor group for each image, then pass through images)
+* > + Preprocess the pixel values so that they are between -1 and 1 (this is what them model is expecting, so we need to convert the image) 
+* > + Then, specify the model and weights
+* > + Model = ResNet50 in this example
+* > + This model has 1,000 trained labeled patterns, or objects it could detect, so we'll limit the output to the top 3
+* > + ARGHHH!! I keep getting stuck at the filedir / docker misalignment.
+
 
 01.15.21
 TIL: https://www.kaggle.com/dansbecker/intro-to-dl-for-computer-vision
@@ -13,7 +37,6 @@ TIL: https://www.kaggle.com/dansbecker/intro-to-dl-for-computer-vision
 Also: https://www.kaggle.com/tangobravo2/exercise-intro-to-dl-for-computer-vision/edit
 * The deep learning technique determines what convolutions will be useful from the data (as part of model-training)
 * The convolutions you've seen are 2x2. But you could have larger convolutions. They could be 3x3, 4x4, etc. They don't even have to be square. Nothing prevents using a 4x7 convolution.
-* 
 
 
 01.14.21
