@@ -1,5 +1,22 @@
 # machine-learning-2021
 
+01.17.21
+TIL:https://www.kdnuggets.com/2020/08/5-different-ways-load-data-python.html
+* Having trouble running notebooks because I skipped the Python part about loading and manipulating dat
+* Here are 5 ways to load the data
+Also: https://www.geeksforgeeks.org/ways-to-import-csv-files-in-google-colab/
+* Specifically how to load CSV files and get the data in a state that it usable
+* Bonus: https://ourcodingclub.github.io/tutorials/pandas-python-intro/
+* Super helpful Pandas overivew
+* The series is a one-dimensional array-like structure designed to hold a single array (or ‘column’) of data and an associated array of data labels, called an index
+* The DataFrame represents tabular data, a bit like a spreadsheet. DataFrames are organised into colums (each of which is a Series), and each column can store a single data-type, such as floating point numbers, strings, boolean values etc. DataFrames can be indexed by either their row or column names. (They are similar in many ways to R’s data.frame.)
+* Dictionaries are a core Python data structure that contain a set of key:value pairs. If you imagine having a written language dictionary, say for English-Hungarian, and you wanted to know the Hungarian word for “spaceship”, you would look-up the English word (the dictionary key in Python) and the dictionary would give you the Hungarian translation (the dictionary value in Python). So the “key-value pair” would be 'spaceship': 'űrhajó'.
+* Note that Pandas DataFrames are accessed primarily by columns. In a sense the row is less important to a DataFrame. For example, what do you think would happen using the following code?
+* Also: https://www.youtube.com/watch?v=cN7W2EPM-dw
+* Colab get from GoogleSheets
+
+
+
 01.16.21
 TIL: https://www.kaggle.com/dansbecker/building-models-from-convolutions
 * When the tensors are applied to the image, each filtered setion has an output - those output sections are compiled in a new output tensor
