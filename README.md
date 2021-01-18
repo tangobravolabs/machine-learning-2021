@@ -1,5 +1,12 @@
 # machine-learning-2021
 
+01.18.21
+TIL: https://queirozf.com/entries/pandas-dataframe-plot-examples-with-matplotlib-pyplot
+* Differnt ways to visualze the data
+Also,:https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.describe.html
+* Getting descriptive summaries of the data
+* And selecting specific values 
+
 01.17.21
 TIL:https://www.kdnuggets.com/2020/08/5-different-ways-load-data-python.html
 * Having trouble running notebooks because I skipped the Python part about loading and manipulating dat
