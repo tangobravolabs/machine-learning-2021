@@ -1,5 +1,14 @@
 # machine-learning-2021
 
+01.19.21
+TIL: https://medium.com/towards-artificial-intelligence/how-i-developed-a-game-using-computer-vision-18409a39a1f3
+* Read the tutorial to create a game using CV
+* There's a target object, in this case a car
+* There's a game play area (road with objects)
+* By moving the car, left and right you can move the on-screen car to avoid obstacles
+* The author used a red car because it is easy to isolate from the background
+
+
 01.18.21
 TIL: https://queirozf.com/entries/pandas-dataframe-plot-examples-with-matplotlib-pyplot
 * Differnt ways to visualze the data
