@@ -13,6 +13,9 @@ Also, bolding in Markdown: https://www.markdownguide.org/basic-syntax/
 * To bold text, add two asterisks or underscores before and after a word or phrase. 
 * To bold the middle of a word for emphasis, add two asterisks without spaces around the letters.
 
+Also, the Rosenbrock function: https://www.sfu.ca/~ssurjano/rosen.html
+* The Rosenbrock function, also referred to as the Valley or Banana function, is a popular test problem for gradient-based optimization algorithms
+
 01.19.21
 TIL: https://medium.com/towards-artificial-intelligence/how-i-developed-a-game-using-computer-vision-18409a39a1f3
 * Read the tutorial to create a game using CV
