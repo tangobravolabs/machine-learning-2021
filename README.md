@@ -16,6 +16,28 @@ Also, bolding in Markdown: https://www.markdownguide.org/basic-syntax/
 Also, the Rosenbrock function: https://www.sfu.ca/~ssurjano/rosen.html
 * The Rosenbrock function, also referred to as the Valley or Banana function, is a popular test problem for gradient-based optimization algorithms
 
+Data democratization: 
+> * Data democratization is the ability for information in a digital format to be accessible to the average end user. The goal of data democratization is to allow non-specialists to be able to gather and analyze data without requiring outside help.  - Margaret Rouse, TechTarget.com
+* https://www.littlemissdata.com/blog/data-democracy
+* I’ve started to notice another less obvious hurdle; the ability to break down a business problem into a data problem.  
+* We need to lower the barriers to access standard, non-sensitive business data.
+* How does a non-data expert gather and analyze the data in a self-serve manner? 
+* Dashboards are great at presenting answers to the "What" questions. 
+* Understanding the why is almost always a more complicated question than a set of pre-canned dashboards can answer.  It typically involves a data deep dive that needs to be tackled from a variety of angles which have not been planned for. 
+* To answer the "Why", we now understand the need for two things.  
++ A custom investigation that the pre-canned dashboards likely didn't account for. 
++ Participation by subject matter experts (SMEs) in the data investigation.  Better, would be if the SMEs could explore in a self serve manner.  
+* Facilitated data analysis is the type of analysis that is still performed by the data analyst team, but the investigation is lead by the SME. 
+* Self-serve data analysis is where the non-data expert SME could dive into the data to their hearts content.
+* Cornerstones
++ Simple tools
++ Simple data
++ Quality enablement
++ Supportive enviornment
+
+* https://segment.com/
+* 
+
 01.19.21
 TIL: https://medium.com/towards-artificial-intelligence/how-i-developed-a-game-using-computer-vision-18409a39a1f3
 * Read the tutorial to create a game using CV
