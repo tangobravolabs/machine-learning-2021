@@ -7,6 +7,7 @@ TIL: https://medium.com/towards-artificial-intelligence/how-i-developed-a-game-u
 * There's a game play area (road with objects)
 * By moving the car, left and right you can move the on-screen car to avoid obstacles
 * The author used a red car because it is easy to isolate from the background
+* I also forked a branch for a conmplete YOLO3 model. Tried running it but got loading errors and a strange GPU warning.
 
 
 01.18.21
