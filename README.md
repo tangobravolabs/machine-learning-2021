@@ -8,6 +8,7 @@ TIL: https://blog.dataiku.com/make-data-prep-less-of-a-hassle
 * Also, https://earthdata.nasa.gov/earth-observation-data/data-recipes
 * Data recipes are tutorials or step-by-step instructions that have been developed by the Earth Observing System Data and Information System (EOSDIS) Distributed Active Archive Centers (DAACs) staff or EOSDIS systems engineers to help users learn how to discover, access, subset, visualize and use our data, information, tools and services. 
 * A storymap is an interesting way to present data with narrative in a story format ex. https://storymaps.arcgis.com/stories/9ebbe1b54dc847f2a7dd01917c9f3071
+* More on ArcGIS: https://storymaps.arcgis.com/
 
 01.20.21
 TIL:https://en.wikipedia.org/wiki/Gradient_descent
