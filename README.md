@@ -1,4 +1,31 @@
 # machine-learning-2021
+
+01.22.21
+TIL:https://github.com/LianShuaiLongDUT/Keras-Res50-classfication/blob/master/main.py
+And: https://keras.io/api/applications/resnet/
+* Able to use Josh's notebook to run idenfication on toilets and sinks
+* Able to modify the image used to run toilet and syncs on any image (from a URL)
+* Able to modify the notebook to look for other items in the coco data set
+> * https://cocodataset.org/#explore
+* Able to change the theshold and see the results
+* Able to see the output when "nothing" is identified (confidence too low)
+* Able to see the output when "too many things" are identified (confused)
+* Also, https://towardsdatascience.com/deploy-a-machine-learning-model-from-a-jupyter-notebook-9257ae5a5f7c
+* How to get from a notebook to a machnine learning model
+* This example uses IBM Watson to do most of the heavy-lfting
+* Here's how to do it in AWS (requires SageMaker) https://aws.amazon.com/getting-started/hands-on/build-train-deploy-machine-learning-model-sagemaker/
+* Also, https://valohai.com/blog/leveling-up-your-ml-code-from-notebook/
+* Some info on why you shouldn't deploy a production system with a notebook
+* PyCharm supports a science mode which allows you to run notebooks so you can transition to code
+* Also, https://medium.com/@_orcaman/jupyter-notebook-is-the-cancer-of-ml-engineering-70b98685ee71
+* Harsh article on the drawbacks of notebooks
+* Good section on the issues I have seen with the df (dataframe) variable and how it strangely works
+* I think notebooks are a great learning tool, its like being able to sketch.
+* It also gives the users a quick way to get up and running without knowing extensive amounts of code and too strict of syntax
+* In line commenting and narrative blocks make the code way more transferrable (this is something that should be considered in regular code, imo
+* Lastly, notebooks are shareable in a way that code is not.
+
+
 01.21.21
 TIL: https://blog.dataiku.com/make-data-prep-less-of-a-hassle
 * Data outputs
