@@ -1,5 +1,43 @@
 # machine-learning-2021
 
+01.23.21 TIL: https://towardsdatascience.com/machine-learning-basics-descision-tree-from-scratch-part-i-4251bfa1b45c
+* Regression-type problems are generally those where we attempt to predict the values of a continuous variable from one or more continuous and/or categorical predictor variables. 
+* If we used simple multiple regression, or some general linear model (GLM) to predict the selling prices of single-family homes, we would determine a linear equation for these variables that can be used to compute predicted selling prices.
+* Classification-type problems are generally those where we attempt to predict values of a categorical dependent variable (class, group membership, etc.) from one or more continuous and/or categorical predictor variables
+* For example, we may be interested in predicting who will or will not graduate from college, or who will or will not renew a subscription.
+* In other cases, we might be interested in predicting which one of multiple different alternative consumer products (e.g., makes of cars) a person decides to purchase, or which type of failure occurs with different types of engines. In those cases, there are multiple categories or classes for the categorical dependent variable.
+* Attribute selection measure is a heuristic for selecting the splitting criterion that partition data into the best possible manner. It is also known as splitting rules because it helps us to determine breakpoints for tuples on a given node
+* Information gain is a statistical property that measures how well a given attribute separates the training examples according to their target classification
+* We can build a conclusion that less impure node requires less information to describe it. And, the more impure node requires more information.
+* The more “impure” a dataset, the higher the entropy and the less “impure” a dataset, the lower the entropy
+* Note that entropy is 0 if all the members of S belong to the same class. For example, if all members are positive, Entropy(S) = 0. Entropy is 1 when the sample contains an equal number of positive and negative examples. If the sample contains an unequal number of positive and negative examples, entropy is between 0 and 1.
+* Information Gain = Entropy(parent node) — [Avg Entropy(children)]
+* Gini says, if we select two items from a population at random then they must be of same class and probability for this is 1 if population is pure.
+* Higher the value of Gini higher the homogeneity.
+* CART (Classification and Regression Tree) uses the Gini method to create binary splits.
+* Decision tree tutorial: https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/ml-decision-tree/tutorial/
+Also, https://brainhub.eu/blog/how-to-approach-data-science-problem/
+* “Data science and statistics are not magic. They won’t magically fix all of a company’s problems. However, they are useful tools to help companies make more accurate decisions and automate repetitive work and choices that teams need to make,” writes Seattle Data Guy, a data-driven consulting agency.
+* Some common problems that are solved with data science
+> * Identifying themes in large data sets: Which server in my server farm needs maintenance the most?
+> * Identifying anomalies in large data sets: Is this combination of purchases different from what this customer has ordered in the past?
+> * Predicting the likelihood of something happening: How likely is this user to click on my video?
+> * Showing how things are connected to one another: What is the topic of this online article?
+> * Categorizing individual data points: Is this an image of a cat or a mouse?
+Common approaches to solving these problems
+> * Two-class classification: useful for any question that has just two possible answers.
+> * Multi-class classification: answers a question that has multiple possible answers.
+> * Anomaly detection: identifies data points that are not normal.
+> * Regression: gives a real-valued answer and is useful when looking for a number instead of a class or category.
+> * Multi-class classification as regression: useful for questions that occur as rankings or comparisons.
+> * Two-class classification as regression: useful for binary classification problems that can also be reformulated as regression.
+> * Clustering: answer questions about how data is organized by seeking to separate out a data set into intuitive chunks.
+> * Dimensionality reduction: reduces the number of random variables under consideration by obtaining a set of principal variables.
+> * Reinforcement learning algorithms: focus on taking action in an environment so as to maximize some notion of cumulative reward.
+* Source of tools to solve problems: https://paperswithcode.com/
+
+
+
 01.22.21
 TIL:https://github.com/LianShuaiLongDUT/Keras-Res50-classfication/blob/master/main.py
 And: https://keras.io/api/applications/resnet/
