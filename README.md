@@ -1,5 +1,24 @@
 # machine-learning-2021
 
+01.24.21
+TIL: https://towardsdatascience.com/understanding-the-basics-of-data-science-883b0ebbf5e0
+* What does a ‘relevant’ dataset looks like?
+* In the examples above, the left table dataset columns are totally not related to each other. The patient identifier has nothing to do with the current stock price and the premium amount of different insurance plans.
+* Whereas, in the table on right, each row can be associated with a particular patient. The different columns are actually qualifying the patient and are termed as ‘Features’ of the dataset.
+* Estimating the right amount of data needed is crucial while solving a data science problem. The rule of thumb is for e.g. if you have say 20 categorical variables with 15 levels / classes each and 18 continuous variables (for continuous variables assume 10 levels / classes) then the minimum number of rows needed is: (20 * 15 + 18 * 10) * 100 = 48,000 rows. (100 is just a multiplying factor and can be varied depending on how much data is available and the application area under consideration)
+* If the dataset has a lot of missing values then the data is called a sparse data.
+* Key data science problems (types)
+* How much / how many?
+* > Linear Regression, Polynomial Regression
+* Which category?
+* > Classification algorithms enable us to answer questions in which we have to predict a category. Classification algorithms are those which throw a category when you know that you have to bucket each entity into fixed number of classes or categories. These are also called as ‘Supervised Classifiers’.
+* Which group?
+* > So what if you don’t know the number of categories that the data needs to be divided into. Don’t worry, there are algorithms to serve you for this purpose as well. Such algorithms are called ‘Unsupervised Algorithms’: Clustering, Recommendation Engine.
+* Is the behavior not normal?
+* > This kind of a question might seem vague in the beginning but it has a lot of practical examples. The algorithms are referred to as ‘Anomaly Detectors’.
+* What action?
+* > Now in the last category, there are some systems in which the decisions need to be made in real time and there is no pile of data to work with but there is a flow of data to work with. Moreover, change in the environment variables changes the whole set of rules that were applied in the earlier scenario. Learning agents learn by interacting with its environment and observing the results of these interactions. This mimics the fundamental way in which humans (and animals alike) learn.
+
 01.23.21 TIL: https://towardsdatascience.com/machine-learning-basics-descision-tree-from-scratch-part-i-4251bfa1b45c
 * Regression-type problems are generally those where we attempt to predict the values of a continuous variable from one or more continuous and/or categorical predictor variables. 
 * If we used simple multiple regression, or some general linear model (GLM) to predict the selling prices of single-family homes, we would determine a linear equation for these variables that can be used to compute predicted selling prices.
