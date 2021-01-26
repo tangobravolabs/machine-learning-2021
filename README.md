@@ -1,5 +1,20 @@
 # machine-learning-2021
 
+10/26/21
+TIl: https://towardsdatascience.com/understanding-and-implementing-dropout-in-tensorflow-and-keras-a8a3a02c1bfa
+* Dropout is a common regularization technique that is leveraged within state-of-the-art solutions to computer vision tasks such as pose estimation, object detection or semantic segmentation.
+* Neural networks have hidden layers in between their input and output layers, these hidden layers have neurons embedded within them, and it’s the weights within the neurons along with the interconnection between neurons is what enables the neural network system to simulate the process of what resembles learning.
+* The disadvantage of utilizing deeper neural networks is that they are highly prone to overfitting.
+* The primary purpose of dropout is to minimize the effect of overfitting within a trained network.
+* Dropout technique works by randomly reducing the number of interconnecting neurons within a neural network. At every training step, each neuron has a chance of being left out, or rather, dropped out of the collated contribution from connected neurons.
+* Also: https://www.seebo.com/machine-learning-ai-manufacturing/
+* Artificial Intelligence is not a silver bullet; no solution will solve all, or most, of your problems. As a rule of thumb, AI works best when it is applied to solving a specific problem, or a very closely-related set of problems. 
+* The two major use cases of Machine Learning in manufacturing are Predictive Quality & Yield, and Predictive Maintenance.
+* Instead of performing maintenance according to a predetermined schedule, or using SCADA systems set up with human-coded thresholds, alert rules and configurations, predictive maintenance uses algorithms to predict the next failure of a component/machine/system.
+* Predictive Quality and Yield automatically identifies the root causes of process-driven production losses using continuous, multivariate analysis, powered by Machine Learning algorithms that are uniquely trained to intimately understand each individual production process.
+* Automated recommendations and alerts can then be generated to inform production teams and process engineers of an imminent problem, and seamlessly share important knowledge on how to prevent the losses before they happen.
+
+
 01.25.21
 TIL: https://aws.amazon.com/rekognition/?nc=sn&loc=1&blog-cards.sort-by=item.additionalFields.createdDate&blog-cards.sort-order=desc
 * Amazon Rekognition makes it easy to add image and video analysis to your applications using proven, highly scalable, deep learning technology that requires no machine learning expertise to use.
