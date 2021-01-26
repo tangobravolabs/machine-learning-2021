@@ -1,5 +1,15 @@
 # machine-learning-2021
 
+01.25.21
+TIL: https://aws.amazon.com/rekognition/?nc=sn&loc=1&blog-cards.sort-by=item.additionalFields.createdDate&blog-cards.sort-order=desc
+* Amazon Rekognition makes it easy to add image and video analysis to your applications using proven, highly scalable, deep learning technology that requires no machine learning expertise to use.
+* With Amazon Rekognition Custom Labels, you can identify the objects and scenes in images that are specific to your business needs. 
+* You can quickly identify well known people in your video and image libraries to catalog footage and photos for marketing, advertising, and media industry use cases. 
+* PPE detection -Personal Protective Equipment (PPE) detection
+Also, https://aws.amazon.com/textract/
+* Use textract to build automated document worfklows
+
+
 01.24.21
 TIL: https://towardsdatascience.com/understanding-the-basics-of-data-science-883b0ebbf5e0
 * What does a ‘relevant’ dataset looks like?
