@@ -1,5 +1,28 @@
 # machine-learning-2021
 
+10.27.21
+TIL: https://machinelearningmastery.com/basic-data-cleaning-for-machine-learning/
+* In tabular data, there are many different statistical analysis and data visualization techniques you can use to explore your data in order to identify data cleaning operations you may want to perform.
+* There are some very basic data cleaning operations that you probably should perform on every single machine learning project.
+> * Identify and remove column variables that only have a single value.
+> * Identify and consider column variables with very few unique values.
+> * Identify and remove rows that contain duplicate observations.
+* Data cleaning refers to identifying and correcting errors in the dataset that may negatively impact a predictive model.
+* The so-called “oil spill” and "iris" datasets are a standard machine learning dataset.
+* > https://raw.githubusercontent.com/jbrownlee/Datasets/master/oil-spill.csv
+* > https://raw.githubusercontent.com/jbrownlee/Datasets/master/oil-spill.names
+* > https://raw.githubusercontent.com/jbrownlee/Datasets/master/iris.csv
+* > https://raw.githubusercontent.com/jbrownlee/Datasets/master/iris.names
+* When a predictor contains a single value, we call this a zero-variance predictor because there truly is no variation displayed by the predictor.
+* You You can detect rows that have that have a single value using the unique() NumPy function that will report the number of unique values in each column.
+* A simpler approach is to use the nunique() Pandas function that does the hard work for you.
+* Another approach to the problem of removing columns with few unique values is to consider the variance of the column.
+* Rows that have identical data are probably useless, if not dangerously misleading during model evaluation.
+* Data deduplication, also known as duplicate detection, record linkage, record matching, or entity resolution, refers to the process of identifying tuples in one or more relations that refer to the same real-world entity.
+* The pandas function duplicated() will report whether a given row is duplicated or not. All rows are marked as either False to indicate that it is not a duplicate or True to indicate that it is a duplicate.
+* There are many ways to achieve this, although Pandas provides the drop_duplicates() function that achieves exactly this.
+* 
+
 10/26/21
 TIl: https://towardsdatascience.com/understanding-and-implementing-dropout-in-tensorflow-and-keras-a8a3a02c1bfa
 * Dropout is a common regularization technique that is leveraged within state-of-the-art solutions to computer vision tasks such as pose estimation, object detection or semantic segmentation.
