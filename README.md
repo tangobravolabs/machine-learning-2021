@@ -21,7 +21,39 @@ TIL: https://machinelearningmastery.com/basic-data-cleaning-for-machine-learning
 * Data deduplication, also known as duplicate detection, record linkage, record matching, or entity resolution, refers to the process of identifying tuples in one or more relations that refer to the same real-world entity.
 * The pandas function duplicated() will report whether a given row is duplicated or not. All rows are marked as either False to indicate that it is not a duplicate or True to indicate that it is a duplicate.
 * There are many ways to achieve this, although Pandas provides the drop_duplicates() function that achieves exactly this.
-* 
+* Also, https://www.ibm.com/garage/method/practices/discover/business-problem-to-ai-data-science-solution/
+* AI and data science require a level of precision that is important to capture up front:
+* > Describe the problem to be solved
+* > Specify all the business questions as precisely as possible
+* > Determine any other business requirements, such as not losing a customer while increasing cross-sell opportunities
+* > Specify the expected benefits in business terms, such as reducing churn among high-value customers by 10%
+* Steps in the minimizing defaulted loans example
+* > Detect what a risky loan is or detect which loans ran into problems
+* > Segment loans into different categories by using information such as the purpose for the loan, the loan amount, and the term of the loan
+* > Sort customers into different groups based on their demographic data
+* > Discover patterns that cross all three types
+* Also, https://medium.com/@jameschen_78678/solve-business-problems-with-data-science-155534b1995d
+* **This 5-step framework will not only shed light on the subject to someone from the non-technical background, but also allow data enthusiasts to consistently deliver quality results in a timely manner.**
+* Step 1: Business Problems
+* > From our experiences, it is not uncommon to get ambiguous problems at first, from both internal and external clients. 
+* > It is our responsibility to dig more information out of our clients and make sure they understand the reason why we are doing it. 
+* Step 2: Analytics Objectives
+* > Setting up sound analytics objectives requires us to have deeper understanding on the three major learning approaches in data science: supervised learning,  unsupervised learning, and reinforcement learning.
+* Step 3: Data Preparation
+* > Sources and Extraction (internal/external - identification/behavior)
+* > Cleansing and Transformation
+* > Exploration and Visualization
+* Step 4: Model Development
+* > Selection
+* > Training (Here we will need to divide the dataframe into training (70%), validation (20%), and testing(10%) data sets.)
+* > Evaluation
+* > Validation
+* > Testing
+* Step 5: Performance Testing (like when we did real-world)
+* > With the tested final model, before actual implementation or actual marketing campaign, we need to do testing to see if there is an actual lift. 
+
+
+
 
 10/26/21
 TIl: https://towardsdatascience.com/understanding-and-implementing-dropout-in-tensorflow-and-keras-a8a3a02c1bfa
