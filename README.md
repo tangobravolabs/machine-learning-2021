@@ -1,5 +1,24 @@
 # machine-learning-2021
 
+10.28.21
+TIL: https://javorraca.github.io/Home/projects/proj-4.html
+* https://github.com/jacobkap/fastDummies
+* Dummy variables (or binary variables) are commonly used in statistical analyses and in more simple descriptive statistics. A dummy column is one which has a value of one when a categorical event occurs and a zero when it doesn’t occur. In most cases this is a feature of the event/person/object being described. For example, if the dummy variable was for occupation being an R programmer, you can ask, “is this person an R programmer?” When the answer is yes, they get a value of 1, when it is no, they get a value of 0.
+* Process
+* > Data Collection & Manipulation
+* >  Exploration through Visualizations
+* > Poisson Regression
+* > Simulation Modeling
+* > Forecast Conclusions
+* Selected data: str(Teams_2018_Stats), str(Teams_2018_Valuation), str(Teams_2018_Valuation_by_Year), str(Teams_Coach_Tenure)
+*  Poisson Regression 
+* https://en.wikipedia.org/wiki/Poisson_regression
+* https://stats.idre.ucla.edu/r/dae/poisson-regression/
+* Poisson regression is used to model count variables.
+* Example: https://www.kaggle.com/apex51/poisson-regression
+* Python Pickle https://docs.python.org/3/library/pickle.html
+* The pickle module implements binary protocols for serializing and de-serializing a Python object structure. “Pickling” is the process whereby a Python object hierarchy is converted into a byte stream, and “unpickling” is the inverse operation, whereby a byte stream (from a binary file or bytes-like object) is converted back into an object hierarchy
+
 10.27.21
 TIL: https://machinelearningmastery.com/basic-data-cleaning-for-machine-learning/
 * In tabular data, there are many different statistical analysis and data visualization techniques you can use to explore your data in order to identify data cleaning operations you may want to perform.
