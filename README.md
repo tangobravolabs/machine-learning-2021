@@ -1,5 +1,27 @@
 # machine-learning-2021
 
+01.29.21
+TIL: https://www.oreilly.com/radar/podcast/why-its-hard-to-design-fair-machine-learning-models/
+* There are standard statistical tools used to check for fairness in machine learning models.
+* anti-classification, classification parity, and calibration
+* The problem with many of the standard metrics is that they fail to take into account how different groups might have different distributions of risk. 
+* A layman’s definition of calibration would be, if an algorithm gives a risk score—maybe it gives a score from one to 10, and one is very low risk and 10 is very high risk—calibration says the scores should mean the same thing for different groups (where the groups are defined based on some protected variable like gender, age, or race).
+* One way to operationalize this is if you have a set of reasonable measures to be your label, you can see how much your algorithm changes if you use different measures. 
+*  If your algorithm is changing a lot using these different measures, then you really have to worry about determining the right measure.
+* Also, https://www.logikk.com/articles/prevent-machine-bias-in-ai/
+* It’s tempting to think of machine intelligence as impartial and deterministic. However, that couldn’t be further from the truth.
+* Researchers have identified over 180 different biases that affect human judgment and decision making.
+* Most AI relies on historical data to learn its task
+* These data points must come from the real world and the real world is biased.
+* In a less sinister way, consumers may also have experienced machine bias in their current technology. 
+* The data that we use to train AI has to be carefully analysed for biases ahead of time and cleaned to represent a fair sample of the population. 
+* How to prevent machine bias
+> + Use a representative dataset
+> + Choose the right model
+> + Monitor and review
+* 
+
+
 10.28.21
 TIL: https://javorraca.github.io/Home/projects/proj-4.html
 * https://github.com/jacobkap/fastDummies
