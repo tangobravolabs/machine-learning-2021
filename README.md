@@ -1,5 +1,22 @@
 # machine-learning-2021
 
+01.30.21
+TIL: https://medium.com/datadriveninvestor/everything-you-want-to-know-about-automated-machine-learning-pipeline-df9e44612ff
+* With the current shortage of skilled ML professionals, most businesses do not have the budget nor the resources to invest in trained team proficient in these technologies.
+* Short for automated machine learning pipeline, the AutoML pipeline is an automated process of applying the machine learning technology to real-world business problems. 
+* > Dataset + Optimization Metric + Contraints (Time/Cost)
+* In a real sense, this solution enables the use of machine learning even for non-technical users with no knowledge of the underlying technology.
+* Built using a Python library, MLBox is an AutoML tool that can automate ML-related tasks such as data pre-processing, optimizing (for cross-validating the ML models), and for making predictions.
+* Integrated on top of the scikit-learn machine learning package in Python, Auto-Sklearn is the automated version that frees any ML user from tasks such as selecting the right ML algorithm and tuning the hyperparameters. Suited for small to medium datasets, Auto-Sklearn can create and optimize a machine learning pipeline using Bayesian searches.
+* Launched by Google, Cloud AutoML is a suite of machine learning-related products that is targeted for developers or users with limited knowledge about ML models.
+* AutoKeras is a ML framework and library that features neural architecture search (or NAS) algorithms and hyperparameter optimization for implementing an automated machine learning pipeline architecture. 
+* AutoML Pipeline — Business Benefits and Use Cases
+* > Better sales forecasting on the basis of current customer data and purchasing season
+* > Improved customer personalization that is based on their previous purchases and their future purchases through customized ML algorithms. 
+* > AutoML promises to enhance the productivity of data scientists or machine learning experts by automating the development of ML models and algorithms. Developing new ML models and algorithms form a small part of their functions. As a result, automation frees up data scientists to focus on solving business-related problems through machine learning solutions.
+
+
+
 01.29.21
 TIL: https://www.oreilly.com/radar/podcast/why-its-hard-to-design-fair-machine-learning-models/
 * There are standard statistical tools used to check for fairness in machine learning models.
