@@ -14,6 +14,8 @@ TIL: https://medium.com/datadriveninvestor/everything-you-want-to-know-about-aut
 * > Better sales forecasting on the basis of current customer data and purchasing season
 * > Improved customer personalization that is based on their previous purchases and their future purchases through customized ML algorithms. 
 * > AutoML promises to enhance the productivity of data scientists or machine learning experts by automating the development of ML models and algorithms. Developing new ML models and algorithms form a small part of their functions. As a result, automation frees up data scientists to focus on solving business-related problems through machine learning solutions.
+Also, https://towardsdatascience.com/8-fundamental-statistical-concepts-for-data-science-9b4e8a0c6f1c
+* Explains basic statitical concepts key to data science
 
 
 
